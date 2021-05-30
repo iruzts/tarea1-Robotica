@@ -1,0 +1,2 @@
+Describa el significado de repositorio.
+Es un lugar de almacenamiento del cual pueden ser recuperados e instalados los paquetes de software el cual está siendo seguido por GIT, ya tiene un historial de GIT en el que se están registrando sus cambios.
